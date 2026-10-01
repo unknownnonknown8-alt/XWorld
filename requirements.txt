@@ -1,0 +1,9 @@
+# Direct dependencies tested together with Python 3.13.
+# Full installed versions are recorded in each run's manifest.json.
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+MulensModel==3.12.0
+astropy==8.0.1
+astroquery==0.4.11
+pytest==9.1.1
